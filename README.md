@@ -1,2 +1,2 @@
 # arvoreGenealogica-BEC
-Um banco de Dados para uma árvore genealógica
+Um Banco de Dados para uma árvore genealógica
